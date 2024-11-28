@@ -1,0 +1,4 @@
+baseURL = 'https://resilientnycode.github.io/'
+languageCode = 'en-us'
+title = 'Resilient Coder Site'
+theme="holy"

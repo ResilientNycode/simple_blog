@@ -1,0 +1,4 @@
+[submodule "simplelbog/public"]
+	path = simplelbog/public
+	url = https://github.com/ResilientNycode/ResilientNycode.github.io.git
+	branch = main
